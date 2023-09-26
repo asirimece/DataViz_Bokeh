@@ -1,4 +1,4 @@
-# Data visualization projects using Bokeh library
+# Data Visualization Projects using Python Bokeh Library
 
 ## DataViz_1
 <img width="869" alt="Screenshot 2023-09-26 at 15 04 20" src="https://github.com/asirimece/DataViz_Bokeh/assets/116263023/ee2a9e50-4eec-41ae-8874-fcbfdac7c512">
